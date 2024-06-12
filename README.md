@@ -12,8 +12,8 @@ Jupyter Notebook or Jupyter Lab
 Clone this repository:
 
 ```bash
-git clone https://github.com/yourusername/ORPO_TinyLlama_FineTuning.git
-cd ORPO_TinyLlama_FineTuning
+git clone https://github.com/mattdepaolis/TinyLLama_v1.1-SFT.git
+cd TinyLLama_v1.1-SFT
 ```
 
 ## Usage
